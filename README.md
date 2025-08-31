@@ -1,4 +1,4 @@
-# Sorting Visualize
+# Sorting Visualizer
 
 A web-based **Sorting Visualizer** built with **HTML, CSS, and JavaScript**. This project provides an interactive interface to visualize and understand the process of various sorting algorithms in real-time.
 
